@@ -7,7 +7,7 @@
 
 ## Dependencies:
 
-<br>**pip install -r dependencies.txt**</br>
+<br>**pip install -r requirements.txt**</br>
 
 ## Running Code:
 <br>Run code with:</br> 
