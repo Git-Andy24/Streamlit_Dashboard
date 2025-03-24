@@ -10,5 +10,6 @@
 <br>**pip install -r dependencies.txt**</br>
 
 ## Running Code:
-<br>**Run code with: streamlit run app.py**</br>
+<br>Run code with:</br> 
+<br>**streamlit run app.py**</br>
 
