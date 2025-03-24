@@ -4,6 +4,8 @@
 
 <br>**Tweets.csv**: Contains raw data of airlines</br>
 <br>**app.py**: Python code for dashboard creation</br>
+<br>**requirements.txt**: List of modules required</br>
+<br>**demo.mp4**: demo video of dashboard operation(made before deployment but works the same)</br>
 
 ### Dependencies:
 
